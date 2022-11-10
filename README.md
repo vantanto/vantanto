@@ -6,5 +6,5 @@ I'am Kristanto, Fullstack Web Developer from 🇮🇩 Indonesia
 - ⚡ hobbies: watching Korean and Chinese dramas, gaming
 - 🌐 websites: [resume](https://vantanto.github.io) | [website](https://vantanto.my.id)
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=vantanto&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vantanto's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vantanto&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=vantanto&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Vantanto's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vantanto&layout=compact&theme=tokyonight&hide_border=true" /> |
 | ------------- | ------------- |
