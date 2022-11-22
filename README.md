@@ -7,8 +7,8 @@ I'am Kristanto, Fullstack Web Developer from 🇮🇩 Indonesia
 - 🌐 websites: [resume](https://vantanto.github.io) | [website](https://vantanto.my.id)
 
 <div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="[https://github-readme-stats.vercel.app/api?username=vantanto&show_icons=true&theme=blue-green](https://github-readme-stats.vercel.app/api?username=vantanto&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)" />
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=vantanto&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 40%;" class="img" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=vantanto&theme=blue-green&langs_count=8&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=vantanto&layout=compact&show_icons=true&theme=algolia&border_radius=20)" /></div>
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vantanto&layout=compact&show_icons=true&theme=algolia&border_radius=20" /></div>
 </div>
