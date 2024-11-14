@@ -2,8 +2,8 @@
 
 I'am Kristanto, Fullstack Web Developer from 🇮🇩 Indonesia
 
-- 🌱 still growing . . . 🤣
-- ⚡ hobbies: watching Korean and Chinese dramas, gaming
+- 🌱 still growing . . . 🔥🔥🔥
+- ⚡ hobbies: watching Korean and Chinese dramas, exploring donghua (Chinese animation), and gaming.
 - 🌐 websites: [resume](https://vantanto.github.io) | [website](https://vantanto.my.id)
 
 <div class='container'>
