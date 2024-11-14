@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">
 
-I'am Kristanto, Fullstack Web Developer from 🇮🇩 Indonesia
+I'am Kristanto, a software engineer from 🇮🇩 Indonesia
 
 - 🌱 still growing . . . 🔥🔥🔥
 - ⚡ hobbies: watching Korean and Chinese dramas, exploring donghua (Chinese animation), and gaming.
